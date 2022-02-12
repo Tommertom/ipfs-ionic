@@ -1,0 +1,7 @@
+{
+  "name": "ipfs-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
